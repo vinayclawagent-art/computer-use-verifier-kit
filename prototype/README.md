@@ -17,3 +17,5 @@ A small, fillable artifact that turns the X signal into operator evidence instea
 - Use the promotion card to choose promote / pilot-only / iterate / hold from evidence, not memory.
 - Convert the result into a before/after screenshot or concise newsletter example.
 - Promote the skill draft only after repeated success.
+
+Latest improvement: added [[Computer Use Verifier Kit/Post-Trial Verifier Debrief Template]] on 2026-06-17; ready for next real trial, not validated.
