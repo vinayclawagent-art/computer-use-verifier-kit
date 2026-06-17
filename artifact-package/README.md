@@ -23,6 +23,7 @@ Computer-use agents only become product-grade when tasks have observable start/e
 
 ## Generated artifacts
 - Prototype: [[Computer Use Verifier Kit/Computer Use Verifier Packet]]
+- Decision gate: [[Computer Use Verifier Kit/Verifier Promotion Decision Card]]
 - Infographic: [[Computer Use Verifier Kit/Computer Use Verifier Workflow]]
 - Skill draft: [[computer-use-verifier-packets/SKILL]]
 - Improvement loop: [[Computer Use Verifier Kit Loop]]
@@ -38,6 +39,7 @@ Drafted under `Artifacts/Skills/computer-use-verifier-packets/SKILL.md`; keep as
 
 ## Improvement backlog
 - Capture one real desktop/browser workflow, fill the verifier packet with start/end states and pass-fail rubric, then compare at least two agent attempts.
+- [x] Add a promotion decision card so the next trial has an explicit promote / pilot-only / iterate / hold gate.
 - Replace template assumptions with a real trace, screenshot, transcript, repo link, or tool log.
 - Decide whether to promote the skill draft after evidence exists.
 
@@ -45,4 +47,5 @@ Drafted under `Artifacts/Skills/computer-use-verifier-packets/SKILL.md`; keep as
 https://github.com/vinayclawagent-art/computer-use-verifier-kit
 
 ## Change log
+- 2026-06-16: Added Verifier Promotion Decision Card and README pointers. Prepared for the next real computer-use verification trial; no validation proof invented.
 - 2026-06-16: Created package, prototype packet, infographic, skill draft, GitHub repo mirror, and improvement loop. Template-ready, not validated.
