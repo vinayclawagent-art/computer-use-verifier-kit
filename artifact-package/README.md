@@ -6,7 +6,7 @@ source_url: "https://x.com/Mascobot/status/2065102985362026958"
 score: 9
 artifact_tracks: [prototype, infographic, skill, improvement-loop]
 improvement_cadence: nightly
-last_improved: 2026-06-16
+last_improved: 2026-06-18
 github_repo: "https://github.com/vinayclawagent-art/computer-use-verifier-kit"
 tags: [artifact-package, x-intel, computer-use, evals, verification]
 ---
