@@ -7,6 +7,7 @@ Package: [[Computer Use Verifier Kit]]
 A small, fillable artifact that turns the X signal into operator evidence instead of a passive note.
 
 ## How to use
+0. Start with [[Computer Use Verifier Kit/Trial Operator Handoff Checklist]] so the trial runner follows the existing packet → evidence → decision → debrief sequence.
 1. Open [[Computer Use Verifier Kit/Computer Use Verifier Packet]].
 2. Fill the scenario, inputs, constraints, evidence, and decision fields.
 3. Attach logs/screenshots/repo links before claiming the idea worked.
@@ -18,4 +19,4 @@ A small, fillable artifact that turns the X signal into operator evidence instea
 - Convert the result into a before/after screenshot or concise newsletter example.
 - Promote the skill draft only after repeated success.
 
-Latest improvement: 2026-06-18 — added `Verifier Trial Evidence Index.md` so future proof links are captured before promotion/debrief claims change.
+Latest improvement: 2026-06-18 — added a Trial Operator Handoff Checklist that sequences verifier packet, evidence index, promotion card, and debrief before any validation claim changes.

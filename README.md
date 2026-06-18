@@ -12,12 +12,10 @@ Inspired by: https://x.com/Mascobot/status/2065102985362026958
 - `improvement-loop/` — recurring improvement loop mirror.
 
 ## Status
-Template-ready, not validated. Use the prototype on a real desktop/browser workflow and fill the promotion card before promoting the workflow.
+Template-ready, not validated. Use the Trial Operator Handoff Checklist on a real target before changing validation claims.
 
 ## Next focus
-Capture one real desktop/browser workflow, fill the verifier packet with start/end states and pass-fail rubric, compare at least two agent attempts, then fill prototype/Verifier Promotion Decision Card.md before choosing promote / pilot-only / iterate / hold.
+Start with prototype/Trial Operator Handoff Checklist.md, fill prototype/Computer Use Verifier Packet.md and prototype/Verifier Trial Evidence Index.md during the real trial, then complete the decision/debrief gates before patching public claims.
 
 ## Latest improvement
-Added prototype/Verifier Promotion Decision Card.md so the next computer-use verification trial has a post-packet promote / pilot-only / iterate / hold gate.
-
-Latest improvement: 2026-06-18 — added Verifier Trial Evidence Index.md so future proof links are captured before validation claims change.
+2026-06-18 — added prototype/Trial Operator Handoff Checklist.md as the operator handoff sequence for the next evidence-pending computer-use verifier trial.

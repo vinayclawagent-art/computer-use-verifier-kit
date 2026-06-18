@@ -23,6 +23,7 @@ Computer-use agents only become product-grade when tasks have observable start/e
 
 ## Generated artifacts
 - Prototype: [[Computer Use Verifier Kit/Computer Use Verifier Packet]]
+- Handoff checklist: [[Computer Use Verifier Kit/Trial Operator Handoff Checklist]]
 - Decision gate: [[Computer Use Verifier Kit/Verifier Promotion Decision Card]]
 - Infographic: [[Computer Use Verifier Kit/Computer Use Verifier Workflow]]
 - Skill draft: [[computer-use-verifier-packets/SKILL]]
@@ -40,6 +41,7 @@ Drafted under `Artifacts/Skills/computer-use-verifier-packets/SKILL.md`; keep as
 - Evidence index: [[Computer Use Verifier Kit/Verifier Trial Evidence Index]]
 
 ## Improvement backlog
+- [x] Add [[Computer Use Verifier Kit/Trial Operator Handoff Checklist]] so the next real trial has an operator-ready sequence across packet, evidence index, decision card, and debrief.
 - Capture one real desktop/browser workflow, fill the verifier packet with start/end states and pass-fail rubric, then compare at least two agent attempts.
 - [x] Add a promotion decision card so the next trial has an explicit promote / pilot-only / iterate / hold gate.
 - Replace template assumptions with a real trace, screenshot, transcript, repo link, or tool log.
@@ -55,3 +57,5 @@ https://github.com/vinayclawagent-art/computer-use-verifier-kit
 - 2026-06-16: Added Verifier Promotion Decision Card and README pointers. Prepared for the next real computer-use verification trial; no validation proof invented.
 - 2026-06-16: Created package, prototype packet, infographic, skill draft, GitHub repo mirror, and improvement loop. Template-ready, not validated.
 - 2026-06-18: Added trial evidence index; ready to collect computer-use verifier proof links before validation decisions.
+
+- 2026-06-18: Added Trial Operator Handoff Checklist; sequence is ready for the next real trial, evidence still pending.
