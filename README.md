@@ -12,10 +12,10 @@ Inspired by: https://x.com/Mascobot/status/2065102985362026958
 - `improvement-loop/` — recurring improvement loop mirror.
 
 ## Status
-Template-ready, not validated. Use the Trial Operator Handoff Checklist on a real target before changing validation claims.
+Template-ready, not validated. Use the Trial Operator Handoff Checklist and prototype/Verifier Evidence Quality Rubric.md on a real target before changing validation claims.
 
 ## Next focus
-Start with prototype/Trial Operator Handoff Checklist.md, fill prototype/Computer Use Verifier Packet.md and prototype/Verifier Trial Evidence Index.md during the real trial, then complete the decision/debrief gates before patching public claims.
+Start with prototype/Trial Operator Handoff Checklist.md, grade the captured proof with prototype/Verifier Evidence Quality Rubric.md, then fill the evidence index, decision card, and debrief before patching public claims.
 
 ## Latest improvement
-2026-06-18 — added prototype/Trial Operator Handoff Checklist.md as the operator handoff sequence for the next evidence-pending computer-use verifier trial.
+2026-06-18 — added prototype/Verifier Evidence Quality Rubric.md so the next evidence-pending trial has a proof-quality gate before claims change.
