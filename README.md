@@ -20,4 +20,4 @@ Capture one real desktop/browser workflow, fill the verifier packet with start/e
 ## Latest improvement
 Added prototype/Verifier Promotion Decision Card.md so the next computer-use verification trial has a post-packet promote / pilot-only / iterate / hold gate.
 
-Latest improvement: added Post-Trial Verifier Debrief Template.md on 2026-06-17; ready for next real trial, not validated.
+Latest improvement: 2026-06-18 — added Verifier Trial Evidence Index.md so future proof links are captured before validation claims change.

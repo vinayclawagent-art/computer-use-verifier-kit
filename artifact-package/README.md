@@ -37,6 +37,8 @@ Explain the workflow as a short evidence pipeline so Vinay can understand the ar
 ## Skill candidate
 Drafted under `Artifacts/Skills/computer-use-verifier-packets/SKILL.md`; keep as a draft until one real trial proves the procedure is reusable and non-duplicative.
 
+- Evidence index: [[Computer Use Verifier Kit/Verifier Trial Evidence Index]]
+
 ## Improvement backlog
 - Capture one real desktop/browser workflow, fill the verifier packet with start/end states and pass-fail rubric, then compare at least two agent attempts.
 - [x] Add a promotion decision card so the next trial has an explicit promote / pilot-only / iterate / hold gate.
@@ -46,6 +48,10 @@ Drafted under `Artifacts/Skills/computer-use-verifier-packets/SKILL.md`; keep as
 ## GitHub repo
 https://github.com/vinayclawagent-art/computer-use-verifier-kit
 
+- [x] Add a trial evidence index so future proof links are captured before validation claims change.
+- [ ] Fill [[Computer Use Verifier Kit/Verifier Trial Evidence Index]] during the next real trial.
+
 ## Change log
 - 2026-06-16: Added Verifier Promotion Decision Card and README pointers. Prepared for the next real computer-use verification trial; no validation proof invented.
 - 2026-06-16: Created package, prototype packet, infographic, skill draft, GitHub repo mirror, and improvement loop. Template-ready, not validated.
+- 2026-06-18: Added trial evidence index; ready to collect computer-use verifier proof links before validation decisions.
